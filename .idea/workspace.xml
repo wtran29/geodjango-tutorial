@@ -1,7 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a8fe60d4-dc50-45e9-ba14-03f587b3b68f" name="Default" comment="" />
+    <list default="true" id="a8fe60d4-dc50-45e9-ba14-03f587b3b68f" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gistutorial.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/geodjango/geodjango/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/geodjango/geodjango/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/geodjango/geodjango/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/geodjango/geodjango/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/geodjango/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/geodjango/world/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/geodjango/world/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/geodjango/world/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/geodjango/world/data/Readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/geodjango/world/data/TM_WORLD_BORDERS-0.3.dbf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/geodjango/world/data/TM_WORLD_BORDERS-0.3.prj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/geodjango/world/data/TM_WORLD_BORDERS-0.3.shp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/geodjango/world/data/TM_WORLD_BORDERS-0.3.shx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/geodjango/world/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/geodjango/world/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/geodjango/world/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/geodjango/world/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/geodjango/world/views.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,7 +40,7 @@
         <entry file="file://$PROJECT_DIR$/geodjango/geodjango/settings.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="51">
-              <caret line="72" lean-forward="true" selection-start-line="72" selection-end-line="72" />
+              <caret line="72" selection-start-line="72" selection-end-line="72" />
             </state>
           </provider>
         </entry>
@@ -40,6 +65,9 @@
       </file>
     </leaf>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -56,6 +84,7 @@
     <option name="width" value="1430" />
     <option name="height" value="838" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -144,7 +173,7 @@
       <window_info anchor="bottom" id="DB Execution Console" order="7" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" />
       <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.3293944" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3196839" />
@@ -206,7 +235,7 @@
     <entry file="file://$PROJECT_DIR$/geodjango/geodjango/settings.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
-          <caret line="72" lean-forward="true" selection-start-line="72" selection-end-line="72" />
+          <caret line="72" selection-start-line="72" selection-end-line="72" />
         </state>
       </provider>
     </entry>
