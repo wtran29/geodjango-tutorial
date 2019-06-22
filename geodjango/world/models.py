@@ -15,6 +15,9 @@ class WorldBorder(models.Model):
     lat = models.FloatField()
     geom = models.MultiPolygonField(srid=4326)
 
+    def __str__(self):
+        return self.name
+
 
 # Auto-generated `LayerMapping` dictionary for WorldBorder model
 worldborders_mapping = {
