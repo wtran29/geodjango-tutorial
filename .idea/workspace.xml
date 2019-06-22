@@ -1,7 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a8fe60d4-dc50-45e9-ba14-03f587b3b68f" name="Default" comment="" />
+    <list default="true" id="a8fe60d4-dc50-45e9-ba14-03f587b3b68f" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodjango/geodjango/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/geodjango/geodjango/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodjango/world/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodjango/world/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodjango/world/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodjango/world/data/Readme.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodjango/world/data/TM_WORLD_BORDERS-0.3.dbf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodjango/world/data/TM_WORLD_BORDERS-0.3.prj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodjango/world/data/TM_WORLD_BORDERS-0.3.shp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodjango/world/data/TM_WORLD_BORDERS-0.3.shx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodjango/world/load.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodjango/world/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodjango/world/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodjango/world/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodjango/world/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodjango/world/views.py" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,58 +31,15 @@
       <file leaf-file-name="settings.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/geodjango/geodjango/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="72" selection-start-line="72" selection-end-line="72" />
+            <state relative-caret-position="323">
+              <caret line="40" selection-start-line="40" selection-end-line="40" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="libgdal.py" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/Envs/practicegis/Lib/site-packages/django/contrib/gis/gdal/libgdal.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="23" column="25" selection-start-line="23" selection-start-column="25" selection-end-line="23" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="layermapping.py" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/Envs/practicegis/Lib/site-packages/django/contrib/gis/utils/layermapping.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="143">
-              <caret line="196" selection-start-line="196" selection-end-line="196" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="layer.py" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/Envs/practicegis/Lib/site-packages/django/contrib/gis/gdal/layer.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="237">
-              <caret line="50" selection-start-line="50" selection-end-line="50" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="models.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/geodjango/world/models.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" column="29" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="load.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/geodjango/world/load.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="379">
-              <caret line="23" selection-start-line="23" selection-end-line="23" />
-              <folding>
-                <element signature="e#0#9#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/geodjango/.gitignore">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -84,10 +58,11 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/mysite/mysite/settings.py" />
-        <option value="$PROJECT_DIR$/geodjango/world/models.py" />
         <option value="$USER_HOME$/Envs/practicegis/Lib/site-packages/django/contrib/gis/gdal/libgdal.py" />
-        <option value="$PROJECT_DIR$/geodjango/geodjango/settings.py" />
+        <option value="$PROJECT_DIR$/geodjango/world/models.py" />
+        <option value="$PROJECT_DIR$/geodjango/world/admin.py" />
         <option value="$PROJECT_DIR$/geodjango/world/load.py" />
+        <option value="$PROJECT_DIR$/geodjango/geodjango/settings.py" />
       </list>
     </option>
   </component>
@@ -114,32 +89,6 @@
               <item name="gistutorial" type="b2602c69:ProjectViewProjectNode" />
               <item name="gistutorial" type="462c0819:PsiDirectoryNode" />
               <item name="geodjango" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="gistutorial" type="b2602c69:ProjectViewProjectNode" />
-              <item name="gistutorial" type="462c0819:PsiDirectoryNode" />
-              <item name="geodjango" type="462c0819:PsiDirectoryNode" />
-              <item name="geodjango" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="gistutorial" type="b2602c69:ProjectViewProjectNode" />
-              <item name="gistutorial" type="462c0819:PsiDirectoryNode" />
-              <item name="geodjango" type="462c0819:PsiDirectoryNode" />
-              <item name="world" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="gistutorial" type="b2602c69:ProjectViewProjectNode" />
-              <item name="gistutorial" type="462c0819:PsiDirectoryNode" />
-              <item name="geodjango" type="462c0819:PsiDirectoryNode" />
-              <item name="world" type="462c0819:PsiDirectoryNode" />
-              <item name="data" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="gistutorial" type="b2602c69:ProjectViewProjectNode" />
-              <item name="gistutorial" type="462c0819:PsiDirectoryNode" />
-              <item name="geodjango" type="462c0819:PsiDirectoryNode" />
-              <item name="world" type="462c0819:PsiDirectoryNode" />
-              <item name="migrations" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -188,8 +137,8 @@
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.3293944" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3196839" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.3293944" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3196839" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
@@ -228,27 +177,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/geodjango/world/migrations/0001_initial.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$USER_HOME$/Envs/practicegis/Lib/site-packages/django/contrib/gis/gdal/layer.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="237">
-          <caret line="50" selection-start-line="50" selection-end-line="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/geodjango/geodjango/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="72" selection-start-line="72" selection-end-line="72" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Envs/practicegis/Lib/site-packages/django/contrib/gis/gdal/libgdal.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="23" column="25" selection-start-line="23" selection-start-column="25" selection-end-line="23" selection-end-column="25" />
+        <state relative-caret-position="288">
+          <caret line="89" selection-start-line="89" selection-end-line="89" />
         </state>
       </provider>
     </entry>
@@ -259,10 +191,54 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$USER_HOME$/venv/gistutorial/Lib/site-packages/django/contrib/gis/db/models/fields.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="143">
+          <caret line="313" column="6" selection-start-line="313" selection-start-column="6" selection-end-line="313" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Envs/practicegis/Lib/site-packages/django/db/backends/utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="143">
+          <caret line="83" selection-start-line="83" selection-end-line="83" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/geodjango/world/migrations/0001_initial.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-238">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+          <folding>
+            <element signature="e#49#91#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Envs/practicegis/Lib/site-packages/django/contrib/gis/gdal/libgdal.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="23" column="25" selection-start-line="23" selection-start-column="25" selection-end-line="23" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/geodjango/world/migrations/0002_auto_20190621_1444.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/geodjango/world/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="51" lean-forward="true" selection-start-line="9" selection-start-column="51" selection-end-line="9" selection-end-column="51" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/geodjango/world/load.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="379">
-          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        <state relative-caret-position="141">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
           <folding>
             <element signature="e#0#9#0" expanded="true" />
           </folding>
@@ -271,10 +247,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/geodjango/world/models.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="29" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
+        <state relative-caret-position="612">
+          <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/geodjango/geodjango/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="40" selection-start-line="40" selection-end-line="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/geodjango/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
