@@ -8,7 +8,8 @@ class IncidentAdmin(LeafletGeoAdmin):
 
 
 class CountyAdmin(admin.GeoModelAdmin):
-    list_display = ('name', 'geoid')
+    list_display = ('name', 'geoid', 'statefp', 'countyns')
+    search_fields = ['name', 'statefp']
 
 
 admin.site.register(County, CountyAdmin)
