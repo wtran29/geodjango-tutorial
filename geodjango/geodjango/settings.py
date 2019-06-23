@@ -38,7 +38,9 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'django.contrib.gis',
+    'leaflet',
     'world',
+    'incidents',
 ]
 
 MIDDLEWARE = [
@@ -124,3 +126,11 @@ USE_TZ = True
 # https://docs.djangoproject.com/en/2.2/howto/static-files/
 
 STATIC_URL = '/static/'
+
+LEAFLET_CONFIG = {
+    'DEFAULT_CENTER': (34.0522, -118.2437),
+    'DEFAULT_ZOOM': 10,
+    'SCALE': 'both',
+    'ATTRIBUTION_PREFIX': 'Testing maps for GeoDjango',
+}
+
