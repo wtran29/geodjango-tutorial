@@ -3,9 +3,10 @@ from django.contrib.gis.db import models
 
 class Incident(models.Model):
     name = models.CharField(max_length=20)
+    description = models.TextField(blank=True)
     location = models.PointField(srid=4326)
-
-    # objects = models.GeoManager()
+    created_at = models.DateTimeField(auto_now_add=True)
+    modified_at = models.DateTimeField(auto_now=True)
 
     def __str__(self):
         return self.name
