@@ -13,10 +13,34 @@
 </head>
 <body>
 <h1>Incident Report</h1>
-<div>{% leaflet_map "gis" %}</div>
+<div>{% leaflet_map "gis" callback='window.our_layers' %}</div>
 
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet-ajax/2.1.0/leaflet.ajax.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet-ajax/2.1.0/leaflet.ajax.min.js"></script>
+<script type="text/javascript">
+    function our_layers(map, options){
+        var datasets = new L.GeoJSON.AJAX("{% url 'incidents:county' %}",{
+
+        });
+
+        var points = new L.GeoJSON.AJAX("{% url 'incidents:incident' %}", {
+            onEachFeature: function(feature, layer){
+                if (feature.properties) {
+                    var content = "<table class='table table-striped table-bordered table-condensed'>" +
+                    "<tr><th>{{ user.username }}</th><td>" + feature.properties.name + "@" + feature.geometry.coordinates + "</td></tr></table>"
+                    layer.on({
+                        click: layer.bindPopup(content)
+
+                    });
+
+                }
+            }
+        });
+
+        datasets.addTo(map);
+        points.addTo(map);
+    }
+</script>
 </body>
 </html>
