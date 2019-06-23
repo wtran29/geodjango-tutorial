@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+{% load static %}
+{% load leaflet_tags %}
+<html lang="en">
+<head>
+    {% leaflet_js %}
+    {% leaflet_css %}
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Incidents Home Page</title>
+    <link rel="stylesheet" type="text/css" href="{% static 'incidents/css/style.css' %}" media="screen" charset="utf-8">
+</head>
+<body>
+<h1>Incident Report</h1>
+<div>{% leaflet_map "gis" %}</div>
+
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet-ajax/2.1.0/leaflet.ajax.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet-ajax/2.1.0/leaflet.ajax.min.js"></script>
+</body>
+</html>

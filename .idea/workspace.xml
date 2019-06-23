@@ -3,6 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="a8fe60d4-dc50-45e9-ba14-03f587b3b68f" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodjango/geodjango/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/geodjango/geodjango/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodjango/incidents/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/geodjango/incidents/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodjango/world/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/geodjango/world/views.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -12,23 +16,14 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.59770113">
+    <splitter split-orientation="horizontal" split-proportion="0.4367622">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
           <file leaf-file-name="settings.py" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/geodjango/geodjango/settings.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="22">
+                <state relative-caret-position="2040">
                   <caret line="120" selection-start-line="120" selection-end-line="120" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/.gitignore">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="17">
-                  <caret line="1" column="20" selection-start-line="1" selection-start-column="20" selection-end-line="1" selection-end-column="20" />
                 </state>
               </provider>
             </entry>
@@ -37,7 +32,7 @@
             <entry file="file://$PROJECT_DIR$/geodjango/incidents/admin.py">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="153">
-                  <caret line="9" column="37" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="37" />
+                  <caret line="9" column="18" lean-forward="true" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="37" />
                   <folding>
                     <element signature="e#0#36#0" expanded="true" />
                   </folding>
@@ -57,7 +52,7 @@
           <file leaf-file-name="load.py" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/geodjango/incidents/load.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="561">
+                <state relative-caret-position="277">
                   <caret line="33" selection-start-line="33" selection-end-line="33" />
                   <folding>
                     <element signature="e#0#9#0" expanded="true" />
@@ -66,11 +61,53 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="models.py" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/geodjango/world/models.py">
+          <file leaf-file-name="views.py" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/geodjango/world/views.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state>
-                  <caret column="35" selection-start-column="35" selection-end-column="35" />
+                <state relative-caret-position="17">
+                  <caret line="1" selection-start-line="1" selection-end-line="1" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="views.py" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/geodjango/incidents/views.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="136">
+                  <caret line="8" selection-start-line="8" selection-end-line="8" />
+                  <folding>
+                    <element signature="e#0#35#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/geodjango/incidents/static/incidents/css/style.css">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="34">
+                  <caret line="2" column="14" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/.gitignore">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="153">
+                  <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="urls.py" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/geodjango/incidents/urls.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="51">
+                  <caret line="3" column="21" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
+                  <folding>
+                    <element signature="e#0#28#0" expanded="true" />
+                  </folding>
                 </state>
               </provider>
             </entry>
@@ -78,32 +115,11 @@
           <file leaf-file-name="urls.py" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/geodjango/geodjango/urls.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="323">
-                  <caret line="19" column="36" selection-start-line="19" selection-start-column="36" selection-end-line="19" selection-end-column="36" />
+                <state relative-caret-position="246">
+                  <caret line="20" column="36" selection-start-line="20" selection-start-column="36" selection-end-line="20" selection-end-column="36" />
                   <folding>
                     <element signature="e#633#669#0" expanded="true" />
                   </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="admin.py" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/geodjango/world/admin.py">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="102">
-                  <caret line="6" selection-start-line="6" selection-end-line="6" />
-                  <folding>
-                    <element signature="e#0#36#0" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="layer.py" pinned="false" current-in-tab="false">
-            <entry file="file://$USER_HOME$/Envs/practicegis/Lib/site-packages/django/contrib/gis/gdal/layer.py">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="17">
-                  <caret line="75" selection-start-line="75" selection-end-line="76" />
                 </state>
               </provider>
             </entry>
@@ -112,14 +128,23 @@
       </split-first>
       <split-second>
         <leaf>
-          <file leaf-file-name="load.py" pinned="false" current-in-tab="true">
+          <file leaf-file-name="load.py" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/geodjango/world/load.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="313">
+                <state relative-caret-position="374">
                   <caret line="28" selection-start-line="28" selection-end-line="28" />
                   <folding>
                     <element signature="e#0#9#0" expanded="true" />
                   </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/geodjango/incidents/templates/incidents/index.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="187">
+                  <caret line="11" column="118" selection-start-line="11" selection-start-column="118" selection-end-line="11" selection-end-column="118" />
                 </state>
               </provider>
             </entry>
@@ -132,6 +157,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Python Script" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -146,18 +172,25 @@
         <option value="$PROJECT_DIR$/geodjango/world/load.py" />
         <option value="$PROJECT_DIR$/geodjango/world/models.py" />
         <option value="$PROJECT_DIR$/geodjango/world/admin.py" />
-        <option value="$PROJECT_DIR$/geodjango/geodjango/urls.py" />
         <option value="$PROJECT_DIR$/geodjango/geodjango/settings.py" />
         <option value="$PROJECT_DIR$/geodjango/incidents/load.py" />
         <option value="$PROJECT_DIR$/geodjango/incidents/models.py" />
         <option value="$PROJECT_DIR$/geodjango/incidents/admin.py" />
+        <option value="$PROJECT_DIR$/geodjango/world/urls.py" />
+        <option value="$PROJECT_DIR$/geodjango/world/views.py" />
+        <option value="$PROJECT_DIR$/geodjango/incidents/urls.py" />
+        <option value="$PROJECT_DIR$/geodjango/geodjango/urls.py" />
+        <option value="$PROJECT_DIR$/geodjango/incidents/views.py" />
+        <option value="$PROJECT_DIR$/geodjango/incidents/static/incidents/style.css" />
+        <option value="$PROJECT_DIR$/geodjango/incidents/templates/incidents/index.html" />
+        <option value="$PROJECT_DIR$/geodjango/incidents/static/incidents/css/style.css" />
         <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="298" />
-    <option name="y" value="117" />
+    <option name="x" value="329" />
+    <option name="y" value="173" />
     <option name="width" value="1527" />
     <option name="height" value="838" />
   </component>
@@ -202,6 +235,45 @@
               <item name="gistutorial" type="b2602c69:ProjectViewProjectNode" />
               <item name="gistutorial" type="462c0819:PsiDirectoryNode" />
               <item name="geodjango" type="462c0819:PsiDirectoryNode" />
+              <item name="incidents" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gistutorial" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gistutorial" type="462c0819:PsiDirectoryNode" />
+              <item name="geodjango" type="462c0819:PsiDirectoryNode" />
+              <item name="incidents" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="incidents" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gistutorial" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gistutorial" type="462c0819:PsiDirectoryNode" />
+              <item name="geodjango" type="462c0819:PsiDirectoryNode" />
+              <item name="incidents" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="incidents" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gistutorial" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gistutorial" type="462c0819:PsiDirectoryNode" />
+              <item name="geodjango" type="462c0819:PsiDirectoryNode" />
+              <item name="incidents" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gistutorial" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gistutorial" type="462c0819:PsiDirectoryNode" />
+              <item name="geodjango" type="462c0819:PsiDirectoryNode" />
+              <item name="incidents" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+              <item name="incidents" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gistutorial" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gistutorial" type="462c0819:PsiDirectoryNode" />
+              <item name="geodjango" type="462c0819:PsiDirectoryNode" />
               <item name="world" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -226,11 +298,14 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../eventsapp" />
     <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\wtran\Desktop\projects\gistutorial\geodjango\incidents\static\incidents\css" />
+      <recent name="C:\Users\wtran\Desktop\projects\gistutorial\geodjango\incidents" />
       <recent name="C:\Users\wtran\Desktop\projects\gistutorial" />
     </key>
   </component>
@@ -260,7 +335,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="298" y="117" width="1527" height="838" extended-state="0" />
+    <frame x="329" y="173" width="1527" height="838" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -270,8 +345,8 @@
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.3293944" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29885828" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.3323486" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20349228" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
@@ -484,16 +559,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/geodjango/geodjango/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="36" selection-start-line="19" selection-start-column="36" selection-end-line="19" selection-end-column="36" />
-          <folding>
-            <element signature="e#633#669#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/geodjango/requirements.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -524,7 +589,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/geodjango/world/load.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="313">
+        <state relative-caret-position="374">
           <caret line="28" selection-start-line="28" selection-end-line="28" />
           <folding>
             <element signature="e#0#9#0" expanded="true" />
@@ -553,12 +618,22 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/geodjango/incidents/load.py">
+    <entry file="file://$PROJECT_DIR$/geodjango/incidents/urls.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="561">
-          <caret line="33" selection-start-line="33" selection-end-line="33" />
+        <state relative-caret-position="51">
+          <caret line="3" column="21" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
           <folding>
-            <element signature="e#0#9#0" expanded="true" />
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/geodjango/geodjango/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="246">
+          <caret line="20" column="36" selection-start-line="20" selection-start-column="36" selection-end-line="20" selection-end-column="36" />
+          <folding>
+            <element signature="e#633#669#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -566,24 +641,72 @@
     <entry file="file://$PROJECT_DIR$/geodjango/incidents/admin.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
-          <caret line="9" column="37" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="37" />
+          <caret line="9" column="18" lean-forward="true" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="37" />
           <folding>
             <element signature="e#0#36#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$USER_HOME$/venv/gistutorial/Lib/site-packages/django/views/generic/base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="152" column="6" selection-start-line="152" selection-start-column="6" selection-end-line="152" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/geodjango/world/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/geodjango/incidents/load.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="277">
+          <caret line="33" selection-start-line="33" selection-end-line="33" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/geodjango/geodjango/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
+        <state relative-caret-position="2040">
           <caret line="120" selection-start-line="120" selection-end-line="120" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/geodjango/incidents/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/geodjango/incidents/templates/incidents/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="118" selection-start-line="11" selection-start-column="118" selection-end-line="11" selection-end-column="118" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/geodjango/incidents/static/incidents/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="14" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="20" selection-start-line="1" selection-start-column="20" selection-end-line="1" selection-end-column="20" />
+        <state relative-caret-position="153">
+          <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
         </state>
       </provider>
     </entry>
