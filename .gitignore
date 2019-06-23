@@ -1,5 +1,5 @@
 ### Django ###
-geodjango/data
+geodjango/incidents/data/
 *.log
 *.pot
 *.pyc
